@@ -1,0 +1,5 @@
+Anh em lưu ý:
+- Cái csdl nó tuỳ máy nên ae cái postgre rồi tự setup theo file trong Bài 1 nhá. Install (nếu chưa) thì
+đây: https://www.youtube.com/watch?v=MsyZGJ4aoGs&list=PLMbuMydSxMKxfg0OeJJoNsdRTnTIEcqmg&index=1&ab_channel=L%E1%BA%ADpTr%C3%ACnhB2A
+- Anh em setup cái folder này nnay nhá: https://www.neilwithdata.com/copy-permission-denied
+- Cuối cùng, ae sửa link ở file database.sql nhá.
